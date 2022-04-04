@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YezG+wruewjrrTsW6up+Zd1Pm6PFxfaen0bG/URTfu0xi2bchu5MHPAYsZJNzJR0UCmBYcjALLxJXbR9jaTs0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\PersonalBlog20net\\PersonalBlog20net\\PersonalBlog20net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
